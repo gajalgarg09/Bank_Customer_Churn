@@ -46,4 +46,5 @@ The notebook demonstrates:
 - Deployment as a predictive service
 
 ## Group Members
-[Your names will be listed here]
+- Gajal Garg (SAP ID - 500109972)
+- Samriddh Sharma (SAP ID - 500109805)
