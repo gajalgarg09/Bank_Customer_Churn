@@ -1,6 +1,4 @@
 # Bank_Customer_Churn
-
-## Project Overview
 This project analyzes customer churn data for a bank to predict which customers are likely to leave the bank's services. The notebook explores the dataset, performs data visualization, and implements machine learning models to predict customer churn.
 
 ## Features
