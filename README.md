@@ -31,7 +31,7 @@ The dataset used is `Churn_Modelling.csv` containing:
 ## Usage
 1. Clone the repository
 2. Install required libraries: `pip install numpy pandas matplotlib seaborn scikit-learn`
-3. Run the colab file `Bank_Customer_Churn.ipynb`
+3. Run the Jupyter Notebook `Bank_Customer_Churn.ipynb`
 
 ## Results
 The notebook demonstrates:
